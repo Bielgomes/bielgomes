@@ -48,3 +48,5 @@
     <img src="https://github-readme-stats.vercel.app/api?username=Bielgomes&show_icons=true&theme=tokyonight" width="400">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bielgomes&layout=compact&theme=tokyonight" width="335">
 </div>
+
+![Snake animation](https://github.com/bielgomes/bielgomes/blob/output/github-contribution-grid-snake.svg)
