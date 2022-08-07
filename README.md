@@ -33,14 +33,14 @@
 
 <div>
     <h3>☎ Contato</h3>
-    <a href="#" alt="Linkedin">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-gomes-0a1552210/" />
+    <a href="https://www.linkedin.com/in/gabriel-gomes-0a1552210/" alt="Linkedin">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-    <a href="#" alt="Linkedin">
-        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/Bielgomes" />
+    <a href="https://github.com/Bielgomes" alt="Github">
+        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
     </a>
-    <a href="#" alt="Linkedin">
-        <img src="https://img.shields.io/badge/Discord-5662F6?style=for-the-badge&logo=discord&logoColor=white&link=https://discord.gg/caX4KbKBM7" />
+    <a href="https://discord.gg/caX4KbKBM7" alt="Discord">
+        <img src="https://img.shields.io/badge/Discord-5662F6?style=for-the-badge&logo=discord&logoColor=white" />
     </a>
 </div>
 
