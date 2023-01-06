@@ -33,7 +33,7 @@
 
 <div>
     <h3>☎ Contato</h3>
-    <a href="https://www.linkedin.com/in/gabriel-gomes-0a1552210/" alt="Linkedin">
+    <a href="https://www.linkedin.com/in/bielgdsilva" alt="Linkedin">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
     <a href="https://github.com/Bielgomes" alt="Github">
