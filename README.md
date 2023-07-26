@@ -39,7 +39,7 @@
     <a href="https://github.com/Bielgomes" alt="Github">
         <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
     </a>
-    <a href="https://discord.gg/caX4KbKBM7" alt="Discord">
+    <a href="https://discord.gg/hU27wXZEns" alt="Discord">
         <img src="https://img.shields.io/badge/Discord-5662F6?style=for-the-badge&logo=discord&logoColor=white" />
     </a>
 </div>
