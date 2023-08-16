@@ -2,9 +2,9 @@
     <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
     <div>
     <h1>Olá, amigo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
-        <p align="left" style="font-size: 17px"> 
-          Meu nome é Gabriel Gomes e eu sou um futuro <strong>Desenvolvedor Front-End</strong>.<br>
-          Atualmente estou estudando ReactJS, e cursando Análise e Desenvolvimento de sistemas no <strong>IFSP</strong>.
+        <p align="left" style="font-size: 17px">
+            Sou Gabriel Gomes, aspirante a Desenvolvedor <strong>Desenvolvedor Full-Stack</strong>.<br><br>
+            Atualmente focado em aprofundar meus conhecimentos em Node.js, estou também cursando Análise e Desenvolvimento de Sistemas no <strong>IFSP</strong>. 
         </p>
     </div>
 </div>
