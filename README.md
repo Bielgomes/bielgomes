@@ -44,11 +44,10 @@
 <br/><br/>
 
 <!-- Contato -->
-## ☎ Contato
-  Você pode me encontrar nas seguintes plataformas:
-  - LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bielgdsilva)
-  - GitHub: [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bielgomes)
-  - Discord: [![Discord](https://img.shields.io/badge/Discord-5662F6?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/hU27wXZEns)
+## ☎ Contato  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bielgdsilva)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bielgomes)
+  [![Discord](https://img.shields.io/badge/Discord-5662F6?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/hU27wXZEns)
   
   Sinta-se à vontade para me contatar para discussões, colaborações ou apenas para uma conversa amigável!
 
