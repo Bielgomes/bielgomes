@@ -39,7 +39,7 @@
 <!-- Projetos -->
 ## 🚀 Projetos
   1. [Deteccao-de-Minas-Terrestres](https://github.com/Bielgomes/Deteccao-de-Minas-Terrestres-uma-abordagem-com-inteligencia-artificial): Trabalho de conclusão de curso no IFSP. Detecção de Minas Terrestres com inteligência artificial.
-  2. [PyForgeAPI](https://github.com/Bielgomes/PyForgeAPI): Uma biblioteca Python para desenvolver APIs RESTful.
+  2. [Fastipy](https://github.com/Bielgomes/Fastipy): Uma biblioteca Python para desenvolver APIs RESTful.
 
 <br/><br/>
 
