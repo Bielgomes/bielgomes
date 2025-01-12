@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="400px" align="right" alt="Computer illustration by iuriCode">
 
-# Hi 👋, I am Bielgomes
+# Hi 👋, I am Gabriel Gomes
 
 I'm Gabriel Gomes, an aspiring **Full-Stack Developer**.<br>
 Currently focused on deepening my knowledge in Node.js, I am also studying Systems Analysis and Development at **IFSP**.
