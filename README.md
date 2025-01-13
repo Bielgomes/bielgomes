@@ -3,7 +3,7 @@
 # Hi 👋, I am Gabriel Gomes
 
 I'm Gabriel Gomes, an aspiring **Full-Stack Developer**.<br>
-Currently focused on deepening my knowledge in Node.js, I am also studying Systems Analysis and Development at **IFSP**.
+Currently focused on deepening my knowledge in Nodejs and ReactJs, I am also graduated Desenvolvimento de Sistemas at **IFSP**.
 
 <br>
 
