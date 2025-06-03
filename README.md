@@ -11,23 +11,23 @@ Currently focused on deepening my knowledge in Nodejs and ReactJs, I am also gra
 
 <kbd>![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)</kbd>
 <kbd>![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)</kbd>
-<kbd>![styled-components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)</kbd>
-<kbd>![Stitches](https://img.shields.io/badge/Stitches-7928CA?style=for-the-badge&logo=stitches&logoColor=white)</kbd>
 <kbd>![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)</kbd>
 <kbd>![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)</kbd>
 <kbd>![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)</kbd>
+<kbd>![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)</kbd>
+<kbd>![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)</kbd>
 
 ## Experience
 
-<kbd>![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)</kbd>
-<kbd>![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)</kbd>
-<kbd>![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)</kbd>
-<kbd>![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)</kbd>
-<kbd>![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)</kbd>
+<kbd>![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)</kbd>
+<kbd>![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)</kbd>
+<kbd>![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)</kbd>
+<kbd>![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)</kbd>
+<kbd>![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)</kbd>
 <kbd>![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logoColor=white)</kbd>
-<kbd>![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logoColor=white)</kbd>
-<kbd>![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)</kbd>
-<kbd>![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)</kbd>
+<kbd>![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)</kbd>
+<kbd>![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)</kbd>
+<kbd>![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)</kbd>
 
 ## Contact
 
