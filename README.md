@@ -1,8 +1,8 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="400px" align="right" alt="Computer illustration by iuriCode">
 
-# Hi 👋, I am Gabriel Gomes
+# Hi 👋, I am Gabriel Gomes.
 
-I'm Gabriel Gomes, an aspiring **Full-Stack Developer**.<br>
+I'm Gabriel Gomes, an aspiring **Full-Stack Developer**<br>
 Currently focused on deepening my knowledge in Nodejs and ReactJs, I am also graduated Desenvolvimento de Sistemas at **IFSP**.
 
 <br>
