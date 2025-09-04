@@ -36,7 +36,8 @@ I also hold a degree in **Systems Development** from IFSP.
 
 [<kbd>![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</kbd>](https://www.linkedin.com/in/bielgdsilva)
 [<kbd>![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</kbd>](https://github.com/Bielgomes)
-[<kbd>![Discord](https://img.shields.io/badge/Discord-5662F6?style=for-the-badge&logo=discord&logoColor=white)</kbd>](https://discord.com/users/796195853278773308)
+
+[<kbd>![codify discord card](https://guild-cards.discloud.app/api/743482187365613641?buttonText=Entrar)](https://discord.com/invite/hU27wXZEns)
 
 Feel free to contact me for discussions, collaborations, or just a friendly chat!
 
