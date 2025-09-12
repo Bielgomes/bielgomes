@@ -4,7 +4,7 @@
 
 I'm an aspiring **Full-Stack Developer**.<br>
 Currently focused on deepening my knowledge in **Node.js** and **React.js**.  
-I also hold a degree in **Systems Development** from IFSP.
+I also hold a degree in **Systems Analysis and Development** from IFSP.
 
 <br>
 
