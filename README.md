@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Gabriel Gomes
 
-I'm an **Full-Stack Developer**.<br>
+I'm an **Full Stack Developer**.<br>
 Currently focused on deepening my knowledge in **Node.js** and **React.js**.
 
 <br>
