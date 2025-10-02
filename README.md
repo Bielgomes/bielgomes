@@ -3,7 +3,8 @@
 # Hi 👋, I'm Gabriel Gomes
 
 I'm an aspiring **Full-Stack Developer**.<br>
-Currently focused on deepening my knowledge in **Node.js** and **React.js**.  
+Currently focused on deepening my knowledge in **Node.js** and **React.js**.
+
 I also hold a degree in **Systems Analysis and Development** from Federal Institute of Education, Science, and Technology of São Paulo.
 
 <br>
