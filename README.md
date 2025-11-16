@@ -36,7 +36,7 @@ Currently focused on deepening my knowledge in **Node.js** and **React.js**.
 [<kbd>![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</kbd>](https://www.linkedin.com/in/bielgdsilva)
 [<kbd>![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</kbd>](https://github.com/Bielgomes)
 
-[<kbd>![codify discord card](https://guild-cards.discloud.app/api/743482187365613641?buttonText=Entrar)](https://discord.com/invite/hU27wXZEns)
+[<kbd>![codify discord card](https://discord-guild-cards.shardweb.app/api/743482187365613641?buttonText=Entrar)](https://discord.com/invite/hU27wXZEns)
 
 Feel free to contact me for discussions, collaborations, or just a friendly chat!
 
