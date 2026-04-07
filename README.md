@@ -42,11 +42,14 @@ Feel free to contact me for discussions, collaborations, or just a friendly chat
 
 <br>
 
+<!--
 ### 🖖 GitHub Status
 
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=Bielgomes&show_icons=true&theme=tokyonight" width="441">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bielgomes&layout=compact&theme=tokyonight" width="335">
 </p>
+
+-->
 
 ![Snake animation](https://github.com/Bielgomes/Bielgomes/blob/output/github-contribution-grid-snake-dark.svg)
