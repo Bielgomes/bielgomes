@@ -12,6 +12,7 @@ Currently focused on deepening my knowledge in **Node.js** and **React.js**.
 <kbd>![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)</kbd>
 <kbd>![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)</kbd>
 <kbd>![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)</kbd>
+<kbd>![React Query](https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)</kbd>
 <kbd>![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)</kbd>
 <kbd>![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white)</kbd>
 <kbd>![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)</kbd>
